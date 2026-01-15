@@ -1,0 +1,72 @@
+li {
+    margin-right: 32px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.is-active {
+   text-decoration:underline;
+   color: yellow;
+}
+
+.social-media-icons-white a {
+    color: white;
+    font-size: 2rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 25%;
+}
+
+.imageflex { 
+    display: flex; 
+}
+
+.imageflexcontent { 
+    margin-left: 15px;
+    margin-top: 0px; 
+}
+
+.imageflex1 { 
+    display: flex; 
+}
+
+.imageflexcontent1 { 
+    margin-left: 15px;
+    margin-top: 0px; 
+}
+
+
+
+
+
+td {
+    border: 3px solid #738cdd;
+    padding: 5px;
+    text-align: center;
+    color:black;
+    font-size: 20px;
+}
+
+
+
+p {
+  font-size: 20px;
+}
+
+
+
+.main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 50px #738cdd;
+}
